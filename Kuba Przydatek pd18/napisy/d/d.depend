@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548960514 source:c:\users\qbox\desktop\kuba przydatek pd18\napisy\d\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

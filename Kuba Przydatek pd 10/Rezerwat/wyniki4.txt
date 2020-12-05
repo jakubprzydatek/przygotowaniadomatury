@@ -1,0 +1,19 @@
+a)
+siano - 12
+¿o³êdzie - 13
+
+b)
+28.12.2012
+
+c)
+sianem - 64
+¿o³êdziami - 26
+
+d)
+Data		Siano	¯o³êdzie
+31.12.2012	55600	19200
+31.01.2013	47200	17600
+28.02.2013	49600	12000
+
+e) 
+max 95 sztuk czyli zwiêkszone o 5

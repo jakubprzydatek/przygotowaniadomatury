@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548958481 source:c:\users\qbox\desktop\kuba przydatek pd18\liczby pierwsze i blizniacze\c\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

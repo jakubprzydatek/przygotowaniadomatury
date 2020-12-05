@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547908720 source:c:\users\qbox\desktop\kuba przydatek pd17\slowa 2006 bc\c\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

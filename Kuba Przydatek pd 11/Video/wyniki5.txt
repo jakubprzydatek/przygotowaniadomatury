@@ -1,0 +1,35 @@
+a)
+Rok	Tytul							Gatunek
+2005	Charlie i fabryka czekolady				familijny
+2005	Kevin sam w domu					familijny
+2005	Madagaskar						familijny
+2005	Opowiesci z Narnii: Lew, czarownica i stara szafa	familijny
+
+b)
+wojenny	67
+
+c)
+Miesiac	PoliczOfID_wyp
+czerwiec	24
+grudzieñ	58
+lipiec		31
+listopad	48
+paŸdziernik	45
+sierpieñ	31
+wrzesieñ	37
+
+d)
+Imie		Nazwisko	SumaOfCena_w_zl
+Bartlomiej	Wojciechowski	77
+
+e)
+9 filmów
+Jumper
+Straszny film
+Katyn
+Oszukac przeznaczenie
+Mgla
+Pianista
+Eurotrip
+The Ring
+Mumia

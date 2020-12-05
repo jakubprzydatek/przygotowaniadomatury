@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549566618 source:c:\users\qbox\desktop\kuba przydatek pd 19\palindrom\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

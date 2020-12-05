@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552247281 source:c:\users\qbox\desktop\kuba przydatek pd 23\zbiorek zadanie 64 obrazki\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

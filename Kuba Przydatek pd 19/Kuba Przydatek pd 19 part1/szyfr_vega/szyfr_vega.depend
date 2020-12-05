@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549811511 source:c:\users\qbox\desktop\kuba przydatek pd 19\szyfr_vega\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

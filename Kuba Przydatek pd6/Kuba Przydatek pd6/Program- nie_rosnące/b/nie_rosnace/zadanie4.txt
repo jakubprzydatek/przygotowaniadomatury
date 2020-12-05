@@ -1,0 +1,3 @@
+Dane 1: 19
+Dane 2: 8
+Dane 3: 47

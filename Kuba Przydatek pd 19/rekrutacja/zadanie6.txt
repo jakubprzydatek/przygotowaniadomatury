@@ -1,0 +1,29 @@
+a)
+imie		nazwisko
+Piotr		Bogasiuk
+Anastazja	Chojnawiak
+Marcin		Chojnik
+Karol		Kaczmarczyk
+Dominik		Kaczmarek
+Mariusz		Lis
+Katarzyna	Weber
+
+b)
+kierunek	PoliczOfidosoby
+fizyka		48
+informatyka	55
+matematyka	38
+
+c)
+imie		nazwisko
+Maciej		Janczak
+Krzysztof	Peszek
+
+d)
+plec	PoliczOfidosoby
+k	15
+m	40
+
+e)
+kierunek	ŒredniaOfmatematyka
+fizyka		71,56

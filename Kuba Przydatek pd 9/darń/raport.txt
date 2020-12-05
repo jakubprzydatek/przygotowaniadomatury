@@ -1,0 +1,20 @@
+b)
+float f(double x)
+{
+    return fabs(pow(x,2)-36);
+}
+
+double x=a;
+    double s=0;
+    while(x<b)
+    {
+        s=s+h*(f(x)+f(x+h))/2;
+        x=x+h;
+    }
+s- pole
+h-przeskok
+a-pierwsza granica
+b- druga granica
+
+Program oblicza wartoœæ funkcji f(x) i f(x+h). S¹ to 2 podstawy trapezu i na podstawie wysokosci oraz dwóch podstaw oblicza pole. Dodaje pole do aktualnego 
+pola ca³ej funkcji. Wykonuje program dopóki x nie osiagnie wartoœci wiêkszej lub równej b. 

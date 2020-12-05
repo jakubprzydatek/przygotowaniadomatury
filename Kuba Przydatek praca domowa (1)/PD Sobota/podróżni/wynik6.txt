@@ -1,0 +1,54 @@
+a) 182
+b)
+Anna	Alewska	6	08:57:00
+Piotr	Grzybowski	11	10:00:00
+Damian	Lipka	10	09:10:00
+c)imie	nazwisko	sklad
+Pawel	Bialic	PPO 9990
+Przemyslaw	Broniek	PPO 9990
+Zbigniew	Bros	PPO 9990
+Maciej	Glowacki	PPO 9990
+Lukasz	Golec	PPO 9990
+Bartlomiej	Gwozdziewic	PPO 9990
+Maciej	Klara	PPO 9990
+Krzysztof	Klimczyk	PPO 9990
+Piotr	Korcyl	PPO 9990
+Wojciech	Kotkiewicz	PPO 9990
+Jan	Kowal	PPO 9990
+Michal	Kryszkiewicz	PPO 9990
+Lukasz	Krzysztofinski	PPO 9990
+Michal	Kujalowicz	PPO 9990
+Krzysztof	Kusch	PPO 9990
+Maciej	Kwiatkowski	PPO 9990
+Pawel	Niznik	PPO 9990
+Marcin	Pienkowski	PPO 9990
+Jakub	Pyzik	PPO 9990
+Bartek	Rogoz	PPO 9990
+Krzysztof	Samek	PPO 9990
+Lukasz	Szanca	PPO 9990
+Jaroslaw	Szatylowicz	PPO 9990
+Michal	Szczepanik	PPO 9990
+Adam	Szmul	PPO 9990
+Maciej	Taczuk	PPO 9990
+Wojciech	Trzebiatowski	PPO 9990
+Pawel	Tworek	PPO 9990
+Pawel	Winogrodzki	PPO 9990
+Jan	Wrobel	PPO 9990
+Jacek	Zanko	PPO 9990
+Wojtek	Zapart	PPO 9990
+Pawel	Zawrzykraj	PPO 9990
+d)sklad	PoliczOfid_ucznia
+ASD 3435	188
+DFG 5674	182
+GDF 4321	167
+GHJ 4700	203
+JGH 3478	173
+PPO 9990	175
+QWE 0342	171
+RRR 4343	176
+RRT 5456	163
+RTY 6784	180
+TTE 4443	183
+TTT 5504	187
+TYE 3454	181
+UOL 0923	211

@@ -1,0 +1,8 @@
+kod_ow	nazwa_osrodka	miejscowosc
+O6	"OW ""Baltyk"""	Kolobrzeg
+O3	"OW ""Delta"""	Krynica Morska
+O5	"OW ""Harnas"""	Zakopane
+O7	"OW ""Jabluszko"""	Kolobrzeg
+w6	"OW ""Mewa"""	Kolobrzeg
+w2	"OW ""Rysy"""	Zakopane
+w4	"OW ""Sniezka"""	Karpacz

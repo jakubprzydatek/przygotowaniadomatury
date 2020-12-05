@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549563796 source:c:\users\qbox\desktop\kuba przydatek pd 19\ciekawe_napisy\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<string>
+

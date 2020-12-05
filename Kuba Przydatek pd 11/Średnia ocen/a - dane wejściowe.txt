@@ -1,0 +1,10 @@
+Dane wejœciowe
+
+N - liczba uczniów, liczba ca³kowita
+
+O od i, gdzie O - œrednia ucznia liczba zmiennoprzecinkowa, 
+i - numer ucznia = 40000 + N
+
+Wynik
+
+W - wynik, liczba zmiennoprzecinkowa

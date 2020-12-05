@@ -1,0 +1,18 @@
+a)
+dla 28 k=23 s(k)=5 Tak
+dla 31 - - nie
+
+b)
+
+Je¿eli n jest liczb¹ czterocyfrow¹ to na ka¿dej jej pozycji mo¿emy ustawiæ conajwy¿ej 
+liczbê 9 co oznacza, ¿e s(k) = 36 co koñczy dowód
+
+
+c)
+1. Podaj n
+2. czy = nie
+2. Dla i=0 dopóki i < n wykonuj
+		Je¿eli i + i[0] + i[1] i[2] + i[3] = n czy=tak
+3. Je¿eli czy=tak wypisz 'tak' w przeciwnym przypadku wypisz 'nie'
+
+	

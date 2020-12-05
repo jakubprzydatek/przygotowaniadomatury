@@ -1,0 +1,13 @@
+a)
+symbol klasy	Liczba kandydatów	Nadwy¿ka
+a		58			28
+b		57			27
+c		94			64
+d		62			32
+b)
+114
+c)
+???
+d)
+
+e)

@@ -1,0 +1,2 @@
+Parzystych: 105
+Nieparzystych: 95

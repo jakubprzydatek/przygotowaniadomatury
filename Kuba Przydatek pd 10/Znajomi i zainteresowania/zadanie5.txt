@@ -1,0 +1,44 @@
+a)
+hobby
+kulturystyka
+kolekcjonerstwo
+krzyzowki
+
+b)
+8
+
+c)
+imie	nazwisko	hobby
+Zofia	Augustowska	programowanie
+Sebastian	Helski	programowanie
+Kornel	Henrykowski	programowanie
+Jerzy	Kielecki	programowanie
+Ewelia	Lubelska	programowanie
+Wiktor	Lubelski	programowanie
+Wiktor	Pilski		programowanie
+Horacy	Warszawski	programowanie
+
+d)
+nazwisko	imie	PoliczOfid
+Augustowska	Anna		6
+Augustowska	Justyna		6
+Augustowska	Zofia		5
+Augustowski	Adam		6
+Augustowski	Kornel		6
+Augustowski	Sebastian	6
+Augustowski	Tomasz		6
+Katowicka	Paulina		5
+Katowicki	Grzegorz	6
+Nadolicki	Jan		6
+Nyska		Ewelina		6
+Piotrkowska	Katarzyna	5
+Piotrkowski	Andrzej		6
+Polkowicka	Dominika	6
+
+e)
+hobby	PoliczOfid
+bron		9
+agroturystyka	9
+kolekcjonerstwo	9
+szydelkowanie	9
+malarstwo	9

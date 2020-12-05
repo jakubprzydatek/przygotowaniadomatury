@@ -1,0 +1,3 @@
+NWD 1 plik: 19
+NWD 2 plik: 129
+NWD 3 plik: 53

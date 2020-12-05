@@ -1,0 +1,26 @@
+a)
+imie		nazwisko	PoliczOflp
+KRZYSZTOF	LEWANDOWSKI	4		tytul
+						TEORIA GRAFOW
+						JEZYKI PROGRAMOWANIA II
+						METODY NUMERYCZNE II
+						FLASH I PHP
+b)
+4,71
+
+c)
+Przed	PoliczOfpesel
+K	138
+M	192
+
+d)
+pesel
+92082477625
+94070532538
+95080318259
+96032039774
+96092278614
+
+e)
+PoliczOftytul
+311

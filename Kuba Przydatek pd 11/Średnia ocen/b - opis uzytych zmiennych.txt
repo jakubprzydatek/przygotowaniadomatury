@@ -1,0 +1,6 @@
+N - liczba uczniów podany przez u¿ytkownika
+
+O od i, gdzie O - œrednia ucznia
+i - numer ucznia = 40000 + N
+
+W - wynik, œrednia arytmetyczna(suma O od i dzielona przez N)

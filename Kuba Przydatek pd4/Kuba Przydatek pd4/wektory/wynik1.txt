@@ -1,0 +1,13 @@
+317 0 - prostopadle do osi OX
+0 126 - prostopadle do osi OY
+235 0 - prostopadle do osi OX
+0 62 - prostopadle do osi OY
+0 265 - prostopadle do osi OY
+203 0 - prostopadle do osi OX
+0 -457 - prostopadle do osi OY
+-265 0 - prostopadle do osi OX
+-393 0 - prostopadle do osi OX
+0 323 - prostopadle do osi OY
+-172 0 - prostopadle do osi OX
+0 415 - prostopadle do osi OY
+-158 0 - prostopadle do osi OX

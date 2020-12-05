@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540489884 source:c:\users\qbox\desktop\pd 9\trawniki\trawniki\main.cpp
+	<iostream>
+	<math.h>
+

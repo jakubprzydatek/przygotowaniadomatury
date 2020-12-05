@@ -1,0 +1,10 @@
+nr_ankiet	nazwa_osrodka	miejscowosc	Wyr1
+105	"OW ""Syrena"""	Jastarnia	95
+106	"OW ""Muszelka"""	Wladyslawowo	84
+107	"OW ""Harnas"""	Zakopane	85
+108	"OW ""Syrena"""	Jastarnia	82
+109	"OW ""Syrena"""	Jastarnia	81
+140	"OW ""Muszelka"""	Wladyslawowo	83
+145	"OW ""Muszelka"""	Wladyslawowo	82
+159	"OW ""Muszelka"""	Wladyslawowo	81
+181	"OW ""Muszelka"""	Wladyslawowo	93

@@ -1,0 +1,42 @@
+a)
+Iloœæ faktur: 2016
+Ilu klientom: 480
+Najwy¿sza wartoœæ: 650
+
+b)
+Miasto		PoliczOfLp	Okres_kwitnienia
+Bielawa		5		VII-VIII
+Jelenia Gora	5		VII-VIII
+Olawa		1		VII-VIII
+Olesnica	1		VII-VIII
+Sobotka		8		VII-VIII
+Trzebnica	4		VII-VIII
+Walbrzych	5		VII-VIII
+Wolow		13		VII-VIII
+Wroclaw		33		VII-VIII
+Zlotoryja	3		VII-VIII
+
+c)
+Liczba_sadzonek	Kolor_kwiatow	Nazwisko	Imie		Nazwa
+12		bialo-liliowe	Gryczka		Nina	Symphytum grandiflorum  Goldsmith
+14		bialo-liliowe	Gorska		Oliwia	Symphytum grandiflorum  Goldsmith
+12		bialo-liliowe	Gondek		Oliwia	Symphytum grandiflorum  Goldsmith
+11		bialo-liliowe	Szubarczyk	Dawid	Symphytum grandiflorum  Goldsmith
+14		bialo-liliowe	Mezynska	Lena	Symphytum x uplandicum Axmister s Gold
+12		bialo-liliowe	Boleski		Tymon	Symphytum x uplandicum Axmister s Gold
+12		bialo-liliowe	Jezierska	Nadia	Symphytum x uplandicum Axmister s Gold
+13		bialo-liliowe	Bzówka		Szymon	Symphytum x uplandicum Axmister s Gold
+
+d)
+Primula japonica	
+Carex Comans	
+Echinacea Tomato Soup	
+Echinacea Black Beauty	
+
+e)
+Rozmiary_doniczki	PoliczOfLp
+10x10x20		85
+11x11x11		355
+13x13x13		96
+9x9x12			429
+9x9x9			1051

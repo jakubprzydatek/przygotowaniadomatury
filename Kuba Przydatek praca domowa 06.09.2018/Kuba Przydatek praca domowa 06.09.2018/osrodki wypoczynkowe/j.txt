@@ -1,0 +1,16 @@
+PoliczOfnr_ankiet	miejscowosc
+10	Darlowo
+6	Debki
+20	Gdynia
+23	Jastarnia
+8	Jastrzebia Gora
+19	Karpacz
+33	Kolobrzeg
+11	Krynica Morska
+11	Leba
+49	Sopot
+30	Stilo
+13	Swinoujscie
+19	Ustka
+15	Wladyslawowo
+33	Zakopane

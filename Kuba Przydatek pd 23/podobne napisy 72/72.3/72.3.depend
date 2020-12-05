@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552588629 source:c:\users\qbox\desktop\kuba przydatek pd 23\podobne napisy 72\72.3\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

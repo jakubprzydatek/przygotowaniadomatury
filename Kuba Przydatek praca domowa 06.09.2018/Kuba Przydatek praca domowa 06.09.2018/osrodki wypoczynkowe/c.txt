@@ -1,0 +1,22 @@
+miejscowosc	nazwa_osrodka	PoliczOfnr_ankiet
+Darlowo	"OW ""Wydma"""	10
+Debki	"OW ""Klif"""	6
+Gdynia	"OW ""CD Europa"""	20
+Jastarnia	"OW ""Syrena"""	23
+Jastrzebia Gora	"OW ""Klif"""	8
+Karpacz	"OW ""Sniezka"""	19
+Kolobrzeg	"OW ""Baltyk"""	9
+Kolobrzeg	"OW ""Jabluszko"""	11
+Kolobrzeg	"OW ""Mewa"""	13
+Krynica Morska	"OW ""Delta"""	11
+Leba	"OW ""Fala"""	11
+Sopot	"OW ""CD Europa"""	33
+Sopot	"OW ""Muszelka"""	11
+Sopot	"OW ""Wydma"""	5
+Stilo	"OW ""Maja"""	30
+Swinoujscie	"OW ""Klif"""	5
+Swinoujscie	"OW ""Wydma"""	8
+Ustka	"OW ""Bryza"""	19
+Wladyslawowo	"OW ""Muszelka"""	15
+Zakopane	"OW ""Harnas"""	10
+Zakopane	"OW ""Rysy"""	23

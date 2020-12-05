@@ -1,0 +1,39 @@
+a) 
+87.7533
+b) 
+Dzien 0, zarosnieta powierzchnia: 15726
+Dzien 1, zarosnieta powierzchnia: 16392
+Dzien 2, zarosnieta powierzchnia: 17024
+Dzien 3, zarosnieta powierzchnia: 17625
+Dzien 4, zarosnieta powierzchnia: 18196
+Dzien 5, zarosnieta powierzchnia: 18738
+Dzien 6, zarosnieta powierzchnia: 19253
+Dzien 7, zarosnieta powierzchnia: 19742
+Dzien 8, zarosnieta powierzchnia: 20207
+Dzien 9, zarosnieta powierzchnia: 20649
+Dzien 10, zarosnieta powierzchnia: 21069
+Dzien 11, zarosnieta powierzchnia: 21468
+Dzien 12, zarosnieta powierzchnia: 21847
+Dzien 13, zarosnieta powierzchnia: 22207
+Dzien 14, zarosnieta powierzchnia: 22549
+Dzien 15, zarosnieta powierzchnia: 22874
+Dzien 16, zarosnieta powierzchnia: 23182
+Dzien 17, zarosnieta powierzchnia: 23475
+Dzien 18, zarosnieta powierzchnia: 23753
+Dzien 19, zarosnieta powierzchnia: 24017
+Dzien 20, zarosnieta powierzchnia: 24268
+Dzien 21, zarosnieta powierzchnia: 24507
+Dzien 22, zarosnieta powierzchnia: 24734
+Dzien 23, zarosnieta powierzchnia: 24949
+Dzien 24, zarosnieta powierzchnia: 25154
+Dzien 25, zarosnieta powierzchnia: 25348
+Dzien 26, zarosnieta powierzchnia: 25533
+Dzien 27, zarosnieta powierzchnia: 25708
+Dzien 28, zarosnieta powierzchnia: 25875
+Dzien 29, zarosnieta powierzchnia: 26033
+Dzien 30, zarosnieta powierzchnia: 26183
+Dzien 31, zarosnieta powierzchnia: 26326
+c) 
+Nie osiąga zera ani całej powierzchni tylko dąży do: 29006
+d) 
+Osiąga zero rano po dniu: 12

@@ -1,0 +1,41 @@
+a)
+PoliczOfIDucznia	ulica
+324			Sportowa
+233			Worcella
+
+b)
+imie	nazwisko	NazwaPrzedmiotu	Ocena
+Jan	Augustyniak	polski		1
+Jan	Augustyniak	polski		3
+Jan	Augustyniak	polski		1
+
+c) plik problem.txt
+
+d)
+IDklasy	NazwaPrzedmiotu	ŒredniaOfOcena
+2a	geografia	3,25
+2a	wf		3,14
+2a	niemiecki	3,12
+2a	angielski	3,11
+2a	chemia		3,03
+2a	historia	3,02
+2a	wos		3,01
+2a	fizyka		3,01
+2a	polski		2,95
+2a	matematyka	2,93
+2a	informatyka	2,72
+
+e)
+IDklasy	imie	nazwisko	NazwaPrzedmiotu	Ocena	Wyr1
+2c	Urszula	Bednarczyk	wos		1	17.04.2009
+2c	Krystyna Lysek		fizyka		1	07.04.2009
+2c	Barbara	Mikolajczyk	wos		1	06.04.2009
+2c	Grazyna	Witczak		angielski	1	05.04.2009
+2c	Dorota	Wojcik		wos		1	12.04.2009
+2c	Beata	Zabielana	niemiecki	1	28.04.2009
+2c	Beata	Zabielana	angielski	1	07.04.2009
+
+f)
+imie	nazwisko	IDklasy	ŒredniaOfOcena
+Barbara	Ogoszewska	2d	3,60
+

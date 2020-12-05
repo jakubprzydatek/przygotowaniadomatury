@@ -1,0 +1,27 @@
+a)
+p³eæ	MaksimumOfwzrost
+c	61
+s	62
+b)
+data_urodzenia	PoliczOfid_dziecka
+20.11.1999	23
+c)
+imie_mamy	wiek	waga
+Barbara		22	4440
+Maria		23	4160
+Marzena		21	4530
+Eliza		21	4220
+Janina		24	4300
+Paulina		24	4640
+d)
+imie		data_urodzenia
+Anna		21.11.1999
+Wiktoria	20.11.1999
+e)
+data_urodzenia	
+21.11.1999	
+09.12.1999	
+12.12.1999	
+23.11.1999	
+19.11.1999	
+22.11.1999

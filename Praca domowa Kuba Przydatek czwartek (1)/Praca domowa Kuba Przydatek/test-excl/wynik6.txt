@@ -1,0 +1,17 @@
+a)
+2,9,12,18,19,20,22
+b)
+?
+c)
+bardzo dobrych 1
+niedostatecznych 6
+d)
+2
+45
+65
+70
+79
+e)
+Prehistoria	Staro¿ytnoœæ	Œredniowiecze	Historia nowo¿ytna	Historia najnowsza
+278	263	281	320	298
+

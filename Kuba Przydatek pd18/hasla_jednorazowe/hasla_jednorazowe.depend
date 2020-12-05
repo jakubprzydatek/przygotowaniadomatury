@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548962745 source:c:\users\qbox\desktop\kuba przydatek pd18\hasla_jednorazowe\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

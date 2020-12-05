@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539110160 source:c:\users\qbox\desktop\kuba przydatek pd7\polpierwsze\main.cpp
+	<iostream>
+	<fstream>
+

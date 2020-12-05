@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554895890 source:c:\users\qbox\desktop\kuba przydatek pd 27\geny\69.3\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

@@ -1,0 +1,17 @@
+a) 73
+
+b)
+Najmniejsza suma	75
+Data najmniejszej	2001-01-06
+
+c)
+Najwieksza suma	240
+Data najwiekszej	2000-05-20
+
+d)
+Ile razy:	
+	1,9:	553
+	10,19:	654
+	20,29:	684
+	30,39:	616
+	40,49:	625

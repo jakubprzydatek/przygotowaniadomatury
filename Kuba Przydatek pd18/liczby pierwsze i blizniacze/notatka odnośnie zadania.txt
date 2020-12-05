@@ -1,0 +1,2 @@
+Nie mog³em znaleŸæ pliku pary.txt do wykonania podpunktu c, wiêc zrobi³em suchy program 
+bez pliku w folderze o nazwie 'c'

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547983081 source:c:\users\qbox\desktop\kuba przydatek pd17\szyfr podstawieniowy\b\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

@@ -1,0 +1,46 @@
+a)
+Imie	Nazwisko	PoliczOfId_badanie	Rok_ur
+Waclawa	Grabowska	17			58
+
+b)
+NFZ			SumaOfCena_Badania
+Dolnoslaski		14414
+Slaski			8540
+Opolski			8490
+Lubuski			7552
+Pomorski		7351
+Wielkopolski		7080
+Swietokrzyski		5532
+Mazowiecki		5345
+Kujawsko-Pomorski	5317
+Zachodniopomorski	5271
+Lubelski		5097
+Lodzki			4829
+Podlaski		3700
+Podkarpacki		3406
+Ma³opolski		2399
+Warminsko-Mazurski	358
+
+c)
+Najwiecej razy:
+Nazwa_badania		PoliczOfId_badanie
+RTG przedramienia	352
+
+U najwiêkszej liczby pacjentów:
+Wyr1			PoliczOfPESEL
+RTG przedramienia	337
+
+d)
+Plec	PoliczOfId_badanie
+k	942
+m	1419
+
+e)
+Dziesieciolecie	PoliczOfPESEL
+3		2
+4		12
+5		88
+6		395
+7		652
+8		821
+9		391

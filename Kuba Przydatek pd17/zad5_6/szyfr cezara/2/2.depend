@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548076044 source:c:\users\qbox\desktop\kuba przydatek pd17\zad5_6\szyfr cezara\2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549569197 source:c:\users\qbox\desktop\kuba przydatek pd 19\przekszt_tekstu_ze_spacja\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

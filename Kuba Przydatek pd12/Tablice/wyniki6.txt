@@ -1,0 +1,57 @@
+a)
+rodzaj_uslugi	SumaOfrata
+L		391790
+W		400713
+
+b)
+rodzaj_uslugi	Rejestracja	firma
+W		PN3661T		BARTEX
+W		PN3651R		BARTEX
+L		PN3641B		BARTEX
+L		PN3631H		BARTEX
+L		PN3621I		BARTEX
+L		PN16838		BARTEX
+W		PN16836		BARTEX
+W		PN16834		BARTEX
+W		PN16832		BARTEX
+L		PN16830		BARTEX
+L		PN16828		BARTEX
+W		PN16826		BARTEX
+W		PN16824		BARTEX
+W		PN16822		BARTEX
+
+c)
+firma		PoliczOfrodzaj_uslugi
+WROCBUD2	22
+
+d)
+powiat
+bedzinski
+bialostocki
+braniewski
+buski
+elblaski
+elcki
+gorowski
+jeleniogorski
+kluczborski
+koscianski
+leczynski
+lubelski
+nyski
+olawski
+olsztynski
+opolski
+pilski
+siemiatycki
+tarnobrzeski
+tarnogorski
+tarnowski
+turecki
+zamojski
+
+e)
+powiat	firma		ŒredniaOfrata
+Konin	BARTEX		2325,64
+Konin	REFAMUR		2590,13
+Konin	WIET-IND	2556,43
